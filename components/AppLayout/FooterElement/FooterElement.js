@@ -17,7 +17,7 @@ export default class FooterElement extends React.Component {
             </p>
         )})
         return(
-            <div style={{margin: 'auto'}}>
+            <div style={{margin: 'auto', height:'3em', marginBottom:'0.2em'}}>
                 <p style={{fontSize:'1.2em', fontWeight:'bold', margin: 'auto'}}>
                     <Link 
                     href={'/'+convert(this.props.page)} 

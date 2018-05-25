@@ -355,7 +355,9 @@ function (_React$Component) {
       });
       return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
         style: {
-          margin: 'auto'
+          margin: 'auto',
+          height: '3em',
+          marginBottom: '0.2em'
         },
         __source: {
           fileName: _jsxFileName,
